@@ -1,0 +1,10 @@
+torch>=2.2
+numpy
+pandas
+scikit-learn
+matplotlib
+numba
+cython
+pybind11
+tensorly
+jupyterlab
