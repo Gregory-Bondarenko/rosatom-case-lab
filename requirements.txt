@@ -1,4 +1,5 @@
 torch>=2.2
+torchvision
 numpy
 pandas
 scikit-learn
